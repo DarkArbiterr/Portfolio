@@ -1,5 +1,4 @@
-# Studia
-Projekty ze studiów
+# Portfolio projektowe
 
 ## Sieci Neuronowe
 [Rozpoznawanie cyfr](https://github.com/DarkArbiterr/Rozpoznawanie-Cyfr)
