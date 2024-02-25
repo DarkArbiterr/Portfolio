@@ -31,3 +31,11 @@
 | [EDziennik](https://github.com/DarkArbiterr/EDziennik)     | C#, WPF, XAML, MySQL                              | Windows       | Aplikacja do zarządzania ocenami, planami zajęć i nieobecnościami + Usługa Windows Service monitorująca działania w aplikacji. |
 | [WareFlow](https://github.com/DarkArbiterr/WareFlow)      | C#, WPF, XAML, XML, xUnit, MySQL, Github Projects | Windows       | Aplikacja wspomagająca zarządzanie magazynem + Usługa Windows Service monitorująca logowanie do aplikacji.                     |
 | [Modele Danych](https://github.com/DarkArbiterr/ModeleDanych) | C#, WPF, XAML                                     | Windows       | Wizualizacja wyników klasyfikacji i regresji.                                                                                  |
+
+## Analiza Danych
+
+|                **Baza danych**                | **Język / Technologia** |
+|:---------------------------------------------:|:-----------------------:|
+| [Baza danych osób chorujących na chorobę serca](https://github.com/DarkArbiterr/AnalizaDanychChorobySerca) | R                       |
+| [Baza danych sprzedaży tabletów](https://github.com/DarkArbiterr/AnalizaDanychTablety)                | Python                  |
+| [Baza danych studentów amerykańskiej szkoły](https://github.com/DarkArbiterr/AnalizaDanychStudents)    | Python                  |
