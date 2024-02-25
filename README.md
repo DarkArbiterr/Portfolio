@@ -8,12 +8,11 @@
 | [Strona Projektu Trustee](https://github.com/DarkArbiterr/TrusteeWWW) | HTML, CSS, Bootstrap    | Strona informacyjna projektu Trustee.                                                                      |
 
 ## Sieci Neuronowe
-[Rozpoznawanie cyfr](https://github.com/DarkArbiterr/Rozpoznawanie-Cyfr)
 
-[Autoasocjator](https://github.com/DarkArbiterr/Autoasocjator)
-
-[Ręka robota](https://github.com/DarkArbiterr/RobotHand)
-
-[Adaline](https://github.com/DarkArbiterr/Adaline)
-
-[Sieć kohonena](https://github.com/DarkArbiterr/Siec-Kohonena)
+|      **Nazwa**     | **Język / Technologia** |                                        **Opis**                                        |
+|:------------------:|:-----------------------:|:--------------------------------------------------------------------------------------:|
+| [Ręka Robota](https://github.com/DarkArbiterr/RobotHand)        | Python, PyGame          | Program uczący wsteczną propagacją sieć neuronową w celi imitacji ruchu ręki robota.   |
+| [Autoasocjator](https://github.com/DarkArbiterr/Autoasocjator)      | C#, WPF                 | Program służący do odszumiania obrazów. Model zbudowany na perceptronach.              |
+| [Rozpoznawanie Cyfr](https://github.com/DarkArbiterr/Rozpoznawanie-Cyfr) | C#, WPF                 | Aplikacja rozpoznawająca cyfry zapisane na panelu 5x8.                                 |
+| [Modele Adaline](https://github.com/DarkArbiterr/Adaline)     | Python                  | Modele Adaline rozpoznawające ręcznie pisane cyfry na zbiorach testowym i treningowym. |
+| [Sieć Kohonena](https://github.com/DarkArbiterr/Siec-Kohonena)      | Python, PyGame          | Aplikacja obrazująca proces uczenia się sieci Kohonena.                                |
