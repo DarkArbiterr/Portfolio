@@ -34,8 +34,9 @@
 
 ## Analiza Danych
 
-|                **Baza danych**                | **Język / Technologia** |
+|                **Baza danych**                | **Język / Technologia** |                 **Zagadnienia**                 |
 |:---------------------------------------------:|:-----------------------:|
-| [Baza danych osób chorujących na chorobę serca](https://github.com/DarkArbiterr/AnalizaDanychChorobySerca) | R                       |
-| [Baza danych sprzedaży tabletów](https://github.com/DarkArbiterr/AnalizaDanychTablety)                | Python                  |
-| [Baza danych studentów amerykańskiej szkoły](https://github.com/DarkArbiterr/AnalizaDanychStudents)    | Python                  |
+| [Million Song Dataset](https://github.com/DarkArbiterr/EksploracjaMasywnychZbiorowDanych-Projekt) | Python,                        | Próbkowanie proporcjonalne strumienia, Hashowanie, MinHash LSH, Shinglety, Filtr Blooma, Szukanie społęczności (trawling, grupowanie spektralne), Collaborating Filtering, SVD, System Rekomendacyjny |
+| [Baza danych osób chorujących na chorobę serca](https://github.com/DarkArbiterr/AnalizaDanychChorobySerca) | R                       | Eksploracyjna analiza danych, wybór predyktorów, modele klasyfikujace i ich porównanie |
+| [Baza danych sprzedaży tabletów](https://github.com/DarkArbiterr/AnalizaDanychTablety)                | Python                  | Modele szacujące i ich porównanie |
+| [Baza danych studentów amerykańskiej szkoły](https://github.com/DarkArbiterr/AnalizaDanychStudents)    | Python                  | Eksploracyjna analiza danych, ocena jakości danych, wybór predyktorów, modele klasyfikujace, szacujące i ich porównanie, grupowanie |
